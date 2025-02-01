@@ -21,22 +21,27 @@ Run the app on an Android device or start an emulator
 
 Libraries Used
 1. Jetpack Compose
+   
 Reason: Jetpack Compose is a modern toolkit for building native Android UI. It simplifies and accelerates UI development on Android with less code, powerful tools, and intuitive Kotlin APIs.
 Usage: Used for building the entire UI of the app, including screens like ScanScreen, ResultsScreen, and StreaksScreen.
 
 2. Navigation Compose
+   
 Reason: Navigation Compose is part of the Jetpack Compose library and provides a way to navigate between different composables in a Compose-based app.
 Usage: Used to handle navigation between the ScanScreen, ResultsScreen, and StreaksScreen.
 
 3. Lottie
+   
 Reason: Lottie is a library that renders After Effects animations in real-time, allowing for smooth and scalable animations.
 Usage: Used for the streak badge animation in the StreaksScreen.
 
 4. MPAndroidChart
+   
 Reason: MPAndroidChart is a powerful charting library for Android that supports various chart types, including pie charts, bar charts, and line charts.
 Usage: Used to display the nutritional breakdown in a pie chart format on the ResultsScreen.
 
 5. Coil
+    
 Reason: Coil is an image loading library for Android backed by Kotlin Coroutines. It is fast, lightweight, and easy to use.
 Usage: Used to load and display images from the gallery in the ScanScreen.
 
