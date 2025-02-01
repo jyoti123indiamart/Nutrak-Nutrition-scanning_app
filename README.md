@@ -1,4 +1,3 @@
-Overview
 The Food Scanner App is a mobile application designed to help users track their food intake by scanning food items and providing nutritional information. The app also includes a streaks feature to motivate users to maintain consistent healthy eating habits.
 
 Setup Instructions
@@ -11,9 +10,13 @@ Kotlin (latest version recommended)
 
 Installation
 Clone the repository: git clone [https://github.com/jyoti123indiamart/Nutrak-Nutrition-scanning_app.git}
+
 Launch the project in Android Studio.
+
 Build the project: Click on Build > Make Project to build the project.
+
 Ensure all dependencies are downloaded and synced.
+
 Run the app on an Android device or start an emulator
 
 Libraries Used
